@@ -1,6 +1,6 @@
 # Hola 👋
 
-Mi nombre es Reinyerd Babinczuk, Soy de Venezuela, Vivo en chile desde hace mas de 5 años y soy Desarrollador Full Stack.
+Mi nombre es Reinyerd Babinczuk, soy de Venezuela, vivo en Chile desde hace mas de 5 años y soy Desarrollador Full Stack.
 
 # Área de Conocimientos
 * Docker.
@@ -20,5 +20,11 @@ Mi nombre es Reinyerd Babinczuk, Soy de Venezuela, Vivo en chile desde hace mas 
 * Capacidad para tomar la iniciativa.
 * Especialmente resolutivo en situaciones de crisis y emergencia.
 
+# Hobbies
+* Jugar Tenis
+* Video Juegos(Counter-Strike, wild rift, cod - mobile)
+* Escuchar Música y Tocar Bateria
+
 # Contacto
+Currículum Actualizado: [Currículum.pdf](Curriculum-Reinyerd_Babinczuk.pdf)  
 Correo Electronico: reinyerd.babinczuk@gmail.com
