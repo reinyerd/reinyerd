@@ -3,8 +3,8 @@
 Mi nombre es Reinyerd Babinczuk, soy de Venezuela, vivo en Chile desde hace mas de 5 años y soy Desarrollador Full Stack.
 
 # Área de Conocimientos
-* Docker.
-* Git
+* Java (POO, JDBC, Servlets, Web Services, JSF, EJB, JPA, PrimeFaces, Hibernate, Struts, Spring Framework, Spring Boot 2).
+* Git.
 * PHP (Laravel, Lumen).
 * JavaScript (jQuery, Vue.js).
 * HTML5.
