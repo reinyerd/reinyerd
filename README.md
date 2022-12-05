@@ -11,7 +11,7 @@ Mi nombre es Reinyerd Babinczuk, soy de Venezuela, vivo en Chile desde hace mas 
 * CSS 3.
 * Bootstrap.
 * Bash(Unix). 
-* PostGresSQL, MySQL.
+* PostGresSQL, MySQL, Oracle.
 
 # Habilidades profesionales
 * Máximo grado de compromiso con los proyectos.
