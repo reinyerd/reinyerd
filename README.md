@@ -1,18 +1,22 @@
 # Hola 👋
 
-Mi nombre es Reinyerd Babinczuk, soy de Venezuela, vivo en Chile desde hace mas de 6 años y soy Desarrollador Full Stack.
+Mi nombre es Reinyerd Babinczuk, soy de Venezuela, vivo en Chile desde hace más de 7 años y soy Líder Técnico y Desarrollador Full Stack.
 
 # Área de Conocimientos
 * Java (Spring Framework, Spring Boot 2 y 3).
+* REST API
+* SonarQube - SonarLint
+* Jenkins
 * Git.
-* PHP (Laravel, Lumen).
-* JavaScript (jQuery, Angular).
+* JavaScript (jQuery).
+* Typescript (Angular).
 * HTML5.
 * CSS 3.
 * Bootstrap.
 * Bash(Unix). 
 * PostGresSQL, MySQL, Oracle
 * Docker.
+* PHP (Laravel, Lumen).
 
 # Habilidades profesionales
 * Máximo grado de compromiso con los proyectos.
